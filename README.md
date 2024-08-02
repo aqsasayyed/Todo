@@ -1,4 +1,7 @@
 # Todo
+![image](https://github.com/user-attachments/assets/3769df44-ecdb-454b-a5b3-b1677f2967b2)
+![image](https://github.com/user-attachments/assets/c90cbae8-7143-42e5-bdf5-1d0ef0133c02)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
 
